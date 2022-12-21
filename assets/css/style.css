@@ -87,7 +87,7 @@ p {
 }
 
 
-/* Separated multiple selectors within the same styles  */
+/* Combined  multiple selectors within the same styles  */
 .benefit-lead, 
 .benefit-brand,
 .benefit-cost {
