@@ -1,2 +1,0 @@
-# Horiseon Social Solution Services
-## 
