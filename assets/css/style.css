@@ -86,7 +86,9 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead,
+
+/* Separated multiple selectors within the same styles  */
+.benefit-lead, 
 .benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
